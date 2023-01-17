@@ -1,6 +1,6 @@
 # joyride-frontend
 
-– a humble frontend app ([LINK](https://zrkrlc.github.io/joyride-frontend/))
+– a humble frontend app ([LINK](https://zrkrlc.github.io/joyride-frontend/)) based on the [isEven API](https://isevenapi.xyz)
 
 ## Setup
 
